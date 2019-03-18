@@ -1,15 +1,15 @@
 =========
-myproject
+The Clueless Crusaders Group Project
 =========
 
 
-Add a short description here!
+We don't know what we're doing but we're doing it.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+A group of one...
 
 
 Note
